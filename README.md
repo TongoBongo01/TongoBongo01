@@ -35,7 +35,7 @@
 
 ## &nbsp;Meu stack/My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,python,java,nodejs,git,github,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,python,java,nodejs,git,gamemakerstudio,idea,kotlin,ps,pycharm,sqlite,github,mysql&theme=dark" />
 
 <div align="left">
 <h2>Contact Me/Contato</h2>
