@@ -24,7 +24,7 @@
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
 <div align="Left">
- <h2>Sobre mim:</h2>
+ <h2>Sobre mim/About me:</h2>
 
 - <img src="./emojis/Nerd Face.png" height="25" width="25"> Gosto de programação, séries, música e claro, jogos <br/>
 - <img src="./emojis/Writing Hand Light Skin Tone.png" height="25" width="25"> Estou sempre buscando conhecer e aprender mais sobre esse universo da tecnologia tão interessante (e estressante! XD).<br />
@@ -33,12 +33,12 @@
 - <img src="./emojis/Folded Hands Light Skin Tone.png" height="25" width="25"> Sempre aberto a aprender, colaborar e compartilhar conhecimento. <br />
 </div>
 
-## &nbsp;My Stack
+## &nbsp;Meu stack/My Stack
 
 <img src="https://skillicons.dev/icons?i=vscode,html,css,python,java,nodejs,git,github,mysql&theme=dark" />
 
 <div align="left">
-<h2>Contact Me</h2>
+<h2>Contact Me/Contato</h2>
 <p>
 	<a href = "mailto:antoniocarvalhotoscanojorge1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href="https://www.linkedin.com/in/antônio-carvalho1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -85,8 +85,8 @@
 </table> -->
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TongoBongo01/Pur0Osso/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TongoBongo01/Pur0Osso/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TongoBongo01/TongoBongo01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TongoBongo01/TongoBongo01/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TongoBongo01/TongoBongo01/output/github-contribution-grid-snake.svg">
 </picture>
 
