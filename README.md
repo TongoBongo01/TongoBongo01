@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&weight=600&size=24&pause=1000&color=E6B500&vCenter=true&width=435&lines=Bem+vindo+%26+Bom+dia!" alt="Typing SVG" /></a>
 <p>
-  <img src="https://i.imgur.com/tSUNiNB.gif" alt="mag prime" width="400"/>
+  <img src="https://tenor.com/pt-BR/view/warframe-duviri-the-duviri-paradox-dominus-thrax-bombastine-gif-6174404762223832869" alt="Dominus" width="400"/>
 </p>
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
