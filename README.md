@@ -84,14 +84,6 @@
 	</tbody>
 </table> -->
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TongoBongo01/TongoBongo01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TongoBongo01/TongoBongo01/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TongoBongo01/TongoBongo01/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="./another-images/lineBar.png" width="100%" height="8px"/>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&weight=600&size=24&pause=1000&color=E6B500&center=true&vCenter=true&width=435&lines=Tchau+e+ben%C3%A7a!" alt="Typing SVG" /></a>
 <!-- <div align="center">
     <img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
