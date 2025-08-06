@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&weight=600&size=24&pause=1000&color=E6B500&vCenter=true&width=435&lines=Bem+vindo+%26+Bom+dia!" alt="Typing SVG" /></a>
 <p>
-  <img src="https://tenor.com/pt-BR/view/warframe-duviri-the-duviri-paradox-dominus-thrax-bombastine-gif-6174404762223832869" alt="Dominus" width="400"/>
+  <img src="https://i.imgur.com/EYEX2uw.gif" alt="morra morra morra" width="400"/>
 </p>
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
@@ -35,7 +35,7 @@
 
 ## &nbsp;Meu stack/My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,python,java,nodejs,git,gamemakerstudio,idea,kotlin,ps,pycharm,sqlite,github,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,python,pycharm,java,nodejs,git,gamemakerstudio,idea,kotlin,ps,pycharm,sqlite,github,mysql&theme=dark" />
 
 <div align="left">
 <h2>Contact Me/Contato</h2>
@@ -83,6 +83,10 @@
 		</tr>
 	</tbody>
 </table> -->
+
+<p>
+  <img src="https://i.imgur.com/tSUNiNB.gif" alt="morra morra morra" width="400"/>
+</p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&weight=600&size=24&pause=1000&color=E6B500&center=true&vCenter=true&width=435&lines=Tchau+e+ben%C3%A7a!" alt="Typing SVG" /></a>
 <!-- <div align="center">
